@@ -1,0 +1,28 @@
+{
+  "name": "Ivan",
+  "age": 30,
+  "is student": false,
+  "courses": [
+    "Python",
+    "QA Automation",
+    "API Testing"
+  ],
+  "address": {
+    "city": "Moscow",
+    "zip": "101000",
+    "point": {
+      "name": "Ivan",
+      "age": 30,
+      "is student": false,
+      "courses": [
+        "Python",
+        "QA Automation",
+        "API Testing"
+      ],
+      "address": {
+        "city": "Moscow",
+        "zip": "101000"
+      }
+    }
+  }
+}
