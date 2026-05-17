@@ -7,6 +7,7 @@ def server():
     server_socket.bind(server_address)
 
 
+
     server_socket.listen(5)
     print("Сервер запущен и ждет подключений...")
 
